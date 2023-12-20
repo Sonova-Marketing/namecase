@@ -1,6 +1,6 @@
 {
-  "name": "@foundernest/namecase",
-  "version": "1.0.5",
+  "name": "@sonova-marketing/namecase",
+  "version": "1.0.6",
   "description": "A fully typed library for fixing capitalization of people's names. Based on tamtamchik PHP library.",
   "keywords": [
     "name-case",
@@ -11,13 +11,13 @@
     "case",
     "internationalization"
   ],
-  "homepage": "https://github.com/foundernest/namecase#readme",
+  "homepage": "https://github.com/Sonova-Marketing/namecase#namecase",
   "bugs": {
-    "url": "https://github.com/foundernest/namecase/issues"
+    "url": "https://github.com/Sonova-Marketing/namecase/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/foundernest/namecase.git"
+    "url": "https://github.com/Sonova-Marketing/namecase.git"
   },
   "license": "MIT",
   "author": "Daniel Seijo <daniseijo.dev@gmail.com>",
